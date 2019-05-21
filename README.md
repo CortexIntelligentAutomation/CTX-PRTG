@@ -24,13 +24,13 @@ This version of the CTX-PRTGmodule was developed in Cortex v6.4.0. Some function
 
 ### Files  
 The CTX-PRTG module requires the following files:
-* [CTX-PRTG Studio Package](https://github.com/CortexIATest/CTXExcel/releases/download/untagged-735f460df6f7d65c9d19/Cortex.Studio.Package.-.V2.2.studiopkg)
+* [CTX-PRTG Studio Package](https://github.com/CortexIntelligentAutomation/CTX-PRTG/releases/download/v1.0/CTX-PRTG.studiopkg)
 
 ## Installation  
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan](#Installation).
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-PRTG/blob/master/CTX-PRTG%20-%20Deployment%20Plan.pdf).
 
 ## How to use  
-A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIATest/CTXExcel/blob/master/CTXExcel%20-%20LLD%20-%20v2.2.docx). Configuring of the subtask's inputs and outputs are detailed in notes on the subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIntelligentAutomation/CTX-PRTG/blob/master/CTX-PRTG%20-%20User%20Guide.pdf). Configuring of the subtask's inputs and outputs are detailed in notes on the subtask workspace.
 
 ## How you can contribute  
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
