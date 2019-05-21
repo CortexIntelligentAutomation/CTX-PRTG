@@ -8,7 +8,7 @@ The module allows users to perform the following functionality:
 * Get current system status
 * Acknowledge alarms
 
-## Table of Contents  1) 
+## Table of Contents 
 1) [Dependencies](#dependencies)
     * [Cortex Version](#cortex-version)
     * [Files](#files)
