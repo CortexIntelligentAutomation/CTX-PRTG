@@ -12,6 +12,7 @@ The module allows users to perform the following functionality:
 1) [Dependencies](#dependencies)
     * [Cortex Version](#cortex-version)
     * [Files](#files)
+1) [Support and Warranty](#support-and-warranty)
 1) [Installation](#installation)
 1) [How to use](#how-to-use)
 1) [How you can contribute](#how-you-can-contribute)
@@ -25,6 +26,9 @@ This version of the CTX-PRTGmodule was developed in Cortex v6.4.0. Some function
 ### Files  
 The CTX-PRTG module requires the following files:
 * [CTX-PRTG Studio Package](https://github.com/CortexIntelligentAutomation/CTX-PRTG/releases/download/v1.0/CTX-PRTG.studiopkg)
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation  
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-PRTG/blob/master/CTX-PRTG%20-%20Deployment%20Plan.pdf).
